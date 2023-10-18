@@ -1,0 +1,26 @@
+/* External CSS Styles in styles.css */
+
+/* Custom primary color */
+.custom-primary {
+  color: #3498db; /* Custom primary text color (blue) */
+}
+
+/* Custom secondary color */
+.custom-secondary {
+  color: #e74c3c; /* Custom secondary text color (red) */
+}
+
+/* Custom background color for a header */
+.custom-header {
+  background-color: #2ecc71; /* Custom background color for headers (green) */
+}
+
+/* Custom background color for a footer */
+.custom-footer {
+  background-color: #9b59b6; /* Custom background color for footers (purple) */
+}
+
+/* Custom border color */
+.custom-border {
+  border: 2px solid #f39c12; /* Custom border color (orange) */
+}
